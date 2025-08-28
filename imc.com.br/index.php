@@ -13,8 +13,8 @@
         <input type="text" name="email"><br><br>    
         <input type="submit">
     </form>
-    <a href="http://www.google.com/" target="_blank">
-        <input type="button" value="Visit Google" />
+    <a href="http://www.google.com/" target="_blank"><br>
+        <input type="button" value="Acessar o site do Google" />
     </a>
 </body>
 </html>
